@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        log.d("proyecto invernadero")
+        log.d("Es es mi proyecto de un invernadero")
     }
 }
